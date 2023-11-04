@@ -19,10 +19,11 @@ Soy Contador Publico y estudiante de Programacion
 Soy Contador Publico, egresado de la Facultad de Ciencias Economicas de la UNC, con una Especialización en Tributación. Debido a mi interes por el rubro tecnologico, y con la idea de combinar ambos mundos, en la actualidad me encuentro cursando el ultimo cuatrimestre de la carrera Tecnicatura Universitaria en Programación en la UTN, Facultad Regional San Rafael.
 
 Tecnologias que manejo:
-https://www.java.com/es/
+https://www.java.com/es/https://www.djangoproject.com/https://www.python.org/https://spring.io/https://lenguajejs.com/javascript/https://lenguajecss.com/css/introduccion/que-es-css/
+https://lenguajehtml.com/html/https://www.mysql.com/https://www.postgresql.org/
 
+ 
 
-  
  
 
 
