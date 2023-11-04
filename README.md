@@ -19,7 +19,8 @@ Soy Contador Publico y estudiante de Programacion
 Soy Contador Publico, egresado de la Facultad de Ciencias Economicas de la UNC, con una Especialización en Tributación. Debido a mi interes por el rubro tecnologico, y con la idea de combinar ambos mundos, en la actualidad me encuentro cursando el ultimo cuatrimestre de la carrera Tecnicatura Universitaria en Programación en la UTN, Facultad Regional San Rafael.
 
 Tecnologias que manejo:
-![java-original](https://github.com/jpnolan1979/jpnolan1979/assets/112594383/1f7fe101-b9ab-45b2-893a-b12daf99d0b6)
+![image](https://github.com/jpnolan1979/jpnolan1979/assets/112594383/02e01287-ebf3-4304-ba9e-693f97ad43a3)
+
 
 
  
