@@ -24,6 +24,11 @@ Tecnologias que manejo:
 https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
 
 
+![image](https://github.com/jpnolan1979/jpnolan1979/assets/112594383/6676149f-5001-4f2c-b4af-92cfd61d1e11)
+![image](https://github.com/jpnolan1979/jpnolan1979/assets/112594383/0f0ffe38-088e-4e40-b46f-dade4e50b7d1)
+![image](https://github.com/jpnolan1979/jpnolan1979/assets/112594383/914d01bc-73f8-4477-b2f6-bfd89fe620a4)
+
+
 
  
 
