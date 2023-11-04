@@ -29,6 +29,14 @@ Tecnologias que manejo:
 ![image](https://github.com/jpnolan1979/jpnolan1979/assets/112594383/5d7bd813-6aab-4ac4-adf4-726bfa332be4)
 ![image](https://github.com/jpnolan1979/jpnolan1979/assets/112594383/c4db93ca-f67e-4cd9-bdf6-79f9ee75a11f)
 ![image](https://github.com/jpnolan1979/jpnolan1979/assets/112594383/50e54fde-e326-40c8-a666-9b0b6ffcffa8)
+![image](https://github.com/jpnolan1979/jpnolan1979/assets/112594383/7199d3a6-24aa-4201-9535-b47fa719c181)
+![image](https://github.com/jpnolan1979/jpnolan1979/assets/112594383/9226ec3f-105a-4ada-a9ad-50f39f760ee1)
+![image](https://github.com/jpnolan1979/jpnolan1979/assets/112594383/bea32aba-6e26-4dfb-9617-9c338eb5198c)
+![image](https://github.com/jpnolan1979/jpnolan1979/assets/112594383/a91b4a48-a15f-4ae9-a87f-527267487584)
+
+
+
+
 
 
 
