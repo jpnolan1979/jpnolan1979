@@ -13,7 +13,16 @@ Soy Contador Publico y estudiante de Programacion
 - 💬 Pregúntame sobre Análisis de datos
 - 📫 Cómo contactarme: juan_pablo_nolan@hotmail.com
 - 😄 Pronombres: JP
-- ⚡ Dato curioso: Soy un apasionado de los numeros
+- ⚡ Dato curioso: Me interesa el analisis numerico mediante herramientas informaticas
+
+
+Soy Contador Publico, egresado de la Facultad de Ciencias Economicas de la UNC, con una Especialización en Tributación. Debido a mi interes por el rubro tecnologico, y con la idea de combinar ambos mundos, en la actualidad me encuentro cursando el ultimo cuatrimestre de la carrera Tecnicatura Universitaria en Programación en la UTN, Facultad Regional San Rafael.
+
+Tecnologias que manejo:
+angular angularjs ay oreja C cplusplus csharp css3 Django estibador expresar figura base de fuego matraz git html5 Java javascript Linux mariadb intermediario mongodb MySQL nginx nodejs oráculo postgresql cartero pitón reaccionar
+
+
+  
  
 
 
