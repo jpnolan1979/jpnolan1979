@@ -2,7 +2,8 @@
 
 Soy Contador Publico y estudiante de Programacion
 
-![foto para github](https://github.com/jpnolan1979/jpnolan1979/assets/112594383/ff830ae3-f421-4bec-8709-d1e3337a7701)
+![foto para github](https://github.com/jpnolan1979/jpnolan1979/assets/112594383/7dc602d9-3f37-45c2-8868-f67ad72b5247)
+
 
 - 🔭 Actualmente estoy trabajando como Contador Publico
 - 🌱 Actualmente estoy aprendiendo programación en distintos lenguajes
